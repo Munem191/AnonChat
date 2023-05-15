@@ -6,11 +6,11 @@ const goatBotAnonChatMSGCommand = {
     name: "anonchat_msg",
     aliases: ["ac"],
     shortDescription: {
-      vi: "Send a message to AnonChat",
+      vi: "Gửi tin nhắn đến AnonChat",
       en: "Send a message to AnonChat"
     },
     longDescription: {
-      vi: "Send a message to AnonChat",
+      vi: "Gửi tin nhắn đến AnonChat",
       en: "Send a message to AnonChat"
     },
     category: "anonchat",
