@@ -9,11 +9,11 @@ const goatBotAnonchatCommand = {
     countDown: 5,
     role: 0,
     shortDescription: {
-      vi: "Manage AnonChat account",
+      vi: "Quản lý tài khoản AnonChat",
       en: "Manage AnonChat account"
     },
     longDescription: {
-      vi: "Manage AnonChat account",
+      vi: "Quản lý tài khoản AnonChat",
       en: "Manage AnonChat account"
     },
     category: "anonchat"
